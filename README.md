@@ -1,4 +1,7 @@
 ### Currently learning front-end development {JS, React, Express}
+
+### Viewable projects: 
+- https://mattazz.github.io/npc-gen/
 ___
 
 
