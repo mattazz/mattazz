@@ -1,4 +1,4 @@
-### Currently learning python 🐍 through small projects
+### Currently learning front-end development {JS, React, Express}
 ___
 
 
