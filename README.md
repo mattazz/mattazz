@@ -88,6 +88,18 @@
 
 <div align="center">
   <a href="https://github.com/mattazz/MagicScraper"><img
+      src="https://github.com/mattazz/ThreeJSMaterials/raw/main/sample.gif" alt=""></a>
+
+  <a href="https://github.com/mattazz/MagicScraper">
+    <p>Three.js Material modelling </p>
+  </a>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="GitHub">
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/mattazz/MagicScraper"><img
       src="https://github.com/mattazz/MagicScraper/raw/main/sample.gif" alt=""></a>
 
   <a href="https://github.com/mattazz/MagicScraper">
@@ -107,6 +119,7 @@
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="GitHub">
   <img src="https://img.shields.io/badge/Textual-green?style=for-the-badge&logo=sanic&logoColor=white" alt="GitHub">
 </div>
+
 
 <!--
 **mattazz/mattazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
