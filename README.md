@@ -2,16 +2,16 @@
 
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952vs4v2k3bmaf336qi5b613j16a6bqn78blwpfzazo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100" />
+  <img
+    src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952vs4v2k3bmaf336qi5b613j16a6bqn78blwpfzazo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
+    width="100" />
 </div>
 
 <div id="greeting" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mattazz&base=1742&style=flat-square&color=blue" alt="" />
-  <h2 style="margin:0; padding:0px">
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I'm+Matthew+Azada" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Matthew+Azada" alt="Typing SVG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mattazz&base=1742&style=flat-square&color=blue" alt="" />
+
 </div>
 
 <p align="center">
@@ -29,27 +29,29 @@
     alt="Node.js">
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"
     alt="Express">
-  <img src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"
-    alt="Socket.io">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"
-    alt="React Native">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX">
-  <img src="https://img.shields.io/badge/-JavaEE-007396?style=for-the-badge&logo=java&logoColor=white" alt="JavaEE">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
     alt="MongoDB">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"
-    alt="Sequelize">
   <img src="https://img.shields.io/badge/-NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL">
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
     alt="MariaDB">
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Rust-brown?style=for-the-badge&logo=rust&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
+<h4 align="center">My credentials on <a href="https://www.credly.com/users/matthew-azada">Credly</a></h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-COMPTIA A+-ff0000?style=for-the-badge&logo=c&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-AWS Certified Cloud Practicioner-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-WES Academic Accreditation-darkgreen?style=for-the-badge&logo=westernunion&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-App Brewery Bootcamp 2022-yellow?style=for-the-badge&logo=homebrew&logoColor=white" alt="Git">
+  
 </p>
 
 <!--
