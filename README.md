@@ -77,7 +77,8 @@
 <h3 align="center">Notable Projects</h3>
 <div align="center">
   <a href="https://mattazz.github.io/TheEyeThreeJS/"><img
-      src="https://github.com/mattazz/TheEyeThreeJS/raw/main/sample.gif" alt=""></a>
+      src="https://github.com/mattazz/TheEyeThreeJS/raw/main/sample.gif" alt=""
+      width="400px"></a>
 
   <a href="https://mattazz.github.io/TheEyeThreeJS/">
     <p>Three.js interactive Eye</p>
@@ -87,7 +88,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/mattazz/MagicScraper"><img
+  <a href="https://mattazz.github.io/ThreeJSMaterials/"><img
+      width="400px"
       src="https://github.com/mattazz/ThreeJSMaterials/raw/main/sample.gif" alt=""></a>
 
   <a href="https://github.com/mattazz/MagicScraper">
@@ -117,7 +119,7 @@
     <p>Toronto Housing Market Scraper</p>
   </a>
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="GitHub">
-  <img src="https://img.shields.io/badge/Textual-green?style=for-the-badge&logo=sanic&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Scrapy-green?style=for-the-badge&logo=sanic&logoColor=white" alt="GitHub">
 </div>
 
 
