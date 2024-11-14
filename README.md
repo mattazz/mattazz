@@ -77,8 +77,7 @@
 <h3 align="center">Notable Projects</h3>
 <div align="center">
   <a href="https://mattazz.github.io/TheEyeThreeJS/"><img
-      src="https://github.com/mattazz/TheEyeThreeJS/raw/main/sample.gif" alt=""
-      width="400px"></a>
+      src="https://github.com/mattazz/TheEyeThreeJS/raw/main/sample.gif" alt="" width="500px"></a>
 
   <a href="https://mattazz.github.io/TheEyeThreeJS/">
     <p>Three.js interactive Eye</p>
@@ -88,8 +87,7 @@
 </div>
 
 <div align="center">
-  <a href="https://mattazz.github.io/ThreeJSMaterials/"><img
-      width="400px"
+  <a href="https://mattazz.github.io/ThreeJSMaterials/"><img width="500px"
       src="https://github.com/mattazz/ThreeJSMaterials/raw/main/sample.gif" alt=""></a>
 
   <a href="https://github.com/mattazz/MagicScraper">
@@ -101,7 +99,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/mattazz/MagicScraper"><img
+  <a href="https://github.com/mattazz/MagicScraper"><img width="500px"
       src="https://github.com/mattazz/MagicScraper/raw/main/sample.gif" alt=""></a>
 
   <a href="https://github.com/mattazz/MagicScraper">
@@ -112,7 +110,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/mattazz/MagicScraper"><img
+
+  <a href="https://github.com/mattazz/MagicScraper"><img width="500px"
       src="https://github.com/mattazz/TorontoHousingScraper/raw/main/assets/scatterplot.png" alt=""></a>
 
   <a href="https://github.com/mattazz/MagicScraper">
