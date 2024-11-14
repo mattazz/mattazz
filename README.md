@@ -16,6 +16,25 @@
   <img src="https://komarev.com/ghpvc/?username=mattazz&base=1742&style=flat-square&color=blue" alt="" />
 </div>
 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matthew-azada-79744075/"><img  src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Git"></a>
+</div>
+
+
+
+<h3 align="center">My credentials on <a href="https://www.credly.com/users/matthew-azada">Credly</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-COMPTIA A+-ff0000?style=for-the-badge&logo=c&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-AWS Certified Cloud Practicioner-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-WES Academic Accreditation-darkgreen?style=for-the-badge&logo=westernunion&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-App Brewery Bootcamp 2022-yellow?style=for-the-badge&logo=homebrew&logoColor=white" alt="Git">
+</p>
+
+<h3 align="center">Technical Skills</h3>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -46,15 +65,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<h4 align="center">My credentials on <a href="https://www.credly.com/users/matthew-azada">Credly</a></h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-COMPTIA A+-ff0000?style=for-the-badge&logo=c&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-AWS Certified Cloud Practicioner-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-WES Academic Accreditation-darkgreen?style=for-the-badge&logo=westernunion&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-App Brewery Bootcamp 2022-yellow?style=for-the-badge&logo=homebrew&logoColor=white" alt="Git">
-  
-</p>
 
 <!--
 **mattazz/mattazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
