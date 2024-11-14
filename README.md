@@ -90,7 +90,7 @@
   <a href="https://mattazz.github.io/ThreeJSMaterials/"><img width="600px"
       src="https://github.com/mattazz/ThreeJSMaterials/raw/main/sample.gif" alt=""></a>
 
-  <a href="https://github.com/mattazz/MagicScraper">
+  <a href="https://mattazz.github.io/ThreeJSMaterials/">
     <p>Three.js Material modelling </p>
   </a>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="GitHub">
@@ -110,15 +110,24 @@
 </div>
 
 <div align="center">
-
   <a href="https://github.com/mattazz/MagicScraper"><img width="600px"
       src="https://github.com/mattazz/TorontoHousingScraper/raw/main/assets/scatterplot.png" alt=""></a>
-
-  <a href="https://github.com/mattazz/MagicScraper">
+  <a href="https://github.com/mattazz/TorontoHousingScraper">
     <p>Toronto Housing Market Scraper</p>
   </a>
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="GitHub">
   <img src="https://img.shields.io/badge/Scrapy-green?style=for-the-badge&logo=sanic&logoColor=white" alt="GitHub">
+</div>
+
+<div align="center">
+  <a href="https://github.com/mattazz/Java-HRManagement"><img width="600px"
+      src="https://github.com/mattazz/Java-HRManagement/raw/main/sample.gif" alt=""></a>
+  <a href="https://github.com/mattazz/Java-HRManagement">
+    <p>Java Ticket & Support Management App</p>
+  </a>
+  <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/JavaFX-purple?style=for-the-badge&logo=&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Scene Builder-black?style=for-the-badge&logo=&logoColor=white" alt="GitHub">
 </div>
 
 
