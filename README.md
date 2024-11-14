@@ -10,7 +10,7 @@
 <div id="greeting" align="center">
   </h2>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Matthew+Azada" alt="Typing SVG" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mattazz&base=1742&style=flat-square&color=blue" alt="" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=mattazz&base=1742&style=flat-square&color=blue" alt="" />
 
 </div>
 
