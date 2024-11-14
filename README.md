@@ -9,7 +9,9 @@
 
 <div id="greeting" align="center">
   </h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Matthew+Azada" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Matthew+Azada"
+      alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -18,7 +20,8 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matthew-azada-79744075/"><img  src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Git"></a>
+  <a href="https://www.linkedin.com/in/matthew-azada-79744075/"><img
+      src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Git"></a>
 </div>
 
 
@@ -27,9 +30,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-COMPTIA A+-ff0000?style=for-the-badge&logo=c&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-AWS Certified Cloud Practicioner-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-WES Academic Accreditation-darkgreen?style=for-the-badge&logo=westernunion&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-App Brewery Bootcamp 2022-yellow?style=for-the-badge&logo=homebrew&logoColor=white" alt="Git">
+  <img
+    src="https://img.shields.io/badge/-AWS Certified Cloud Practicioner-orange?style=for-the-badge&logo=amazon&logoColor=white"
+    alt="Git">
+  <img
+    src="https://img.shields.io/badge/-WES Academic Accreditation-darkgreen?style=for-the-badge&logo=westernunion&logoColor=white"
+    alt="Git">
+  <img
+    src="https://img.shields.io/badge/-App Brewery Bootcamp 2022-yellow?style=for-the-badge&logo=homebrew&logoColor=white"
+    alt="Git">
 </p>
 
 <h3 align="center">Technical Skills</h3>
@@ -65,6 +74,39 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
+<h3 align="center">Notable Projects</h3>
+<div align="center">
+  <a href="https://mattazz.github.io/TheEyeThreeJS/"><img
+      src="https://github.com/mattazz/TheEyeThreeJS/raw/main/sample.gif" alt=""></a>
+
+  <a href="https://mattazz.github.io/TheEyeThreeJS/">
+    <p>Three.js interactive Eye</p>
+  </a>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="GitHub">
+</div>
+
+<div align="center">
+  <a href="https://github.com/mattazz/MagicScraper"><img
+      src="https://github.com/mattazz/MagicScraper/raw/main/sample.gif" alt=""></a>
+
+  <a href="https://github.com/mattazz/MagicScraper">
+    <p>Magic The Gathering Toronto Card Scraper</p>
+  </a>
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="GitHub">
+  <img src="https://img.shields.io/badge/Textual-black?style=for-the-badge&logo=tumblr&logoColor=white" alt="GitHub">
+</div>
+
+<div align="center">
+  <a href="https://github.com/mattazz/MagicScraper"><img
+      src="https://github.com/mattazz/TorontoHousingScraper/raw/main/assets/scatterplot.png" alt=""></a>
+
+  <a href="https://github.com/mattazz/MagicScraper">
+    <p>Toronto Housing Market Scraper</p>
+  </a>
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="GitHub">
+  <img src="https://img.shields.io/badge/Textual-green?style=for-the-badge&logo=sanic&logoColor=white" alt="GitHub">
+</div>
 
 <!--
 **mattazz/mattazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
